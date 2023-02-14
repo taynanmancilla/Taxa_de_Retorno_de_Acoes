@@ -1,2 +1,4 @@
-# Taxa_de_Retorno_de_A-es
-Cálculo da taxa de retorno de uma carteira de ações simulada, comparando-a com o índice BOVESPA
+# Taxa de Retorno de Ações
+Simulação de uma carteira de ações, onde foi efetuado diferentes cálculos de retornos e comparação da carteira com o índice BOVESPA
+
+Desenvolvido em Python e utilizando as bibliotecas: Pandas, Numpy e Plotly
